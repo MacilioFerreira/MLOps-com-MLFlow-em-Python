@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/claro/Documents/JOB%20-%20Claro/Cursos/Udemy%20-%20MLOps/mlruns/1/88b6fd87ff7649e1878d3226b524a587/artifacts
+end_time: 1630031230430
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 88b6fd87ff7649e1878d3226b524a587
+run_uuid: 88b6fd87ff7649e1878d3226b524a587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630031230149
+status: 4
+tags: []
+user_id: claro

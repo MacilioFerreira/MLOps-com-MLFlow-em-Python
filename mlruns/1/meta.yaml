@@ -1,0 +1,4 @@
+artifact_location: file:///Users/claro/Documents/JOB%20-%20Claro/Cursos/Udemy%20-%20MLOps/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: nb_experiment
